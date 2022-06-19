@@ -1,6 +1,6 @@
 ### Hey! I'm Jackie 👋
 - 👩🏻‍💻  Full stack software engineer
-- 📚  Eager to learn and grow!
+- 📚  Eager to learn and grow
 - 👩🏻‍🔬  Background in Biology and Digital Marketing
 - 💌 [Let's connect!](https://www.linkedin.com/in/jacquelinezhou/)
 
