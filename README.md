@@ -1,7 +1,4 @@
 ### Hey! I'm Jackie 👋
-- 👩🏻‍💻  Full-stack software developer
-- 📚  Focused on learning and growth
-- 👩🏻‍🔬  Background in Digital Marketing
 - 💌 [Let's connect!](https://www.linkedin.com/in/jacqueline-z/)
 
 <!--
